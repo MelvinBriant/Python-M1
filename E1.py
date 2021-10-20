@@ -7,7 +7,6 @@ import xlrd
 import csv
 import pandas as pd
 
-
 def get_data():
     # Récupèration des données de l'utilisateur
     print('Entrez le numéro de la ligne')
